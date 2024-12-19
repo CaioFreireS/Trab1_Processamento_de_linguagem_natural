@@ -1,1 +1,1 @@
-1780 sentence delimiters, 74846 (5134 diff) tokens, 30081 (5098) simple forms, 4374 (10) digits
+1780 sentence delimiters, 74936 (5133 diff) tokens, 30117 (5098) simple forms, 4374 (10) digits
