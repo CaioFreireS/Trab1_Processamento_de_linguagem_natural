@@ -1,0 +1,120 @@
+0000000005
+-1 pena_def
+: 23 3 22 3 21 3 20 3 17 2 16 2 15 2 14 2 6 1 5 1 4 1 
+: 13 4 
+: 13 5 6 1 5 1 4 1 
+: 18 6 
+: -4 9 24 8 3 7 
+: -4 9 3 7 
+: 19 8 13 5 
+: 7 10 
+: 13 5 
+: 28 12 27 12 2 11 1 11 
+: -4 13 
+: -4 9 28 12 27 12 
+: 26 14 25 14 
+: 8 15 
+: -2 17 3 16 
+t 2 18 1 18 
+: 11 20 9 19 
+: 30 22 29 22 2 21 1 21 
+: 3 7 
+: -3 23 
+: -2 24 
+: -2 17 30 22 29 22 
+: 26 25 25 25 
+: 10 26 
+: 12 27 
+: 3 28 
+t 2 25 1 25 
+t 2 29 1 29 
+: 9 19 
+: 3 30 
+: 11 20 
+f 
+-2 meses
+: 36 2 35 1 
+: 38 4 33 3 
+: 37 5 
+: 32 6 31 6 30 6 29 6 
+: 2 3 
+: -5 3 
+: 34 7 
+t 
+f 
+-3 dias
+: 36 2 35 1 
+: 45 4 43 3 
+: 44 5 
+: 42 6 41 6 40 6 39 6 
+: 2 3 
+: -5 3 
+: 34 7 
+t 
+f 
+-4 anos
+: 36 2 35 1 
+: 49 4 48 3 
+: 50 5 48 3 
+: 47 6 46 6 28 6 27 6 
+: 2 3 
+: -5 3 
+: 34 7 
+t 
+f 
+-5 parNum
+: 2 1 1 1 
+t 35 0 
+f 
+%<E>
+%(
+%)
+%$*
+%fixo
+%fixado
+%fixada
+%<E>/<PENA-DEFINITIVA-ANOS>
+%<E>/</PENA-DEFINITIVA-ANOS>
+%<E>/<PENA-DEFINITIVA-DIAS>
+%<E>/</PENA-DEFINITIVA-DIAS
+%<E>/<PENA-DEFINITIVA-MESES>
+%<E>/</PENA-DEFINITIVA-MESES>
+%<PREP>
+%repriemda
+%definitivamente
+%definitivas
+%definitiva
+%<Pr>
+%<A>
+%acusado
+%acusada
+%acusadas
+%acusados
+%<N>
+%,
+%e
+%ano
+%anos
+%mês
+%meses
+%Mês
+%Meses
+%$[0
+%$]
+%<Num>
+%<NB>
+%$[1
+%$[2
+%dias
+%dia
+%Dia
+%Dias
+%$[3
+%$[4
+%$[5
+%Anos
+%Ano
+%$[6
+%$[7
+%$[8
+f

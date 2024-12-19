@@ -1,0 +1,62 @@
+#Unigraph
+SIZE 1715 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+42
+"<E>" 38 378 3 39 25 35 
+"" 1315 386 0 
+":anos.grf" 534 141 2 3 10 
+"(+) " 554 65 2 2 10 
+":meses.grf" 1005 145 1 32 
+"(+) " 1010 70 1 11 
+", +e " 678 140 1 11 
+":dias.grf" 1070 630 1 30 
+"(+) " 1081 575 1 21 
+", +e " 921 599 1 21 
+"ano+anos" 618 140 1 6 
+"$*" 878 141 1 31 
+":anos.grf" 811 384 1 28 
+"(+) " 778 322 1 22 
+":anos.grf" 551 625 2 15 19 
+"(+) " 569 558 2 14 19 
+":meses.grf" 742 600 2 17 20 
+"(+) " 761 536 2 16 20 
+", +e " 695 624 2 16 21 
+"ano+anos" 635 624 1 18 
+"mês+meses" 844 600 1 9 
+"$*" 982 629 1 29 
+"$*" 672 381 1 27 
+"pena base +pena-base +penas base +penas-base +reprimenta" 231 227 3 39 24 35 
+"<PREP>" 405 381 4 22 40 2 14 
+"fixo+fixado+fixada" 75 265 2 26 39 
+"<PRO>" 151 212 1 23 
+"<E>/<PENA-BASE-ANOS>" 724 386 1 12 
+"<E>/</PENA-BASE-ANOS>" 918 382 2 13 1 
+"<E>/<PENA-BASE-DIAS>" 1006 628 1 7 
+"<E>/</PENA-BASE-DIAS>" 1164 628 2 8 1 
+"<E>/<PENA-BASE-MESES>" 931 142 1 4 
+"<E>/</PENA-BASE-MESES>" 1128 147 2 5 1 
+"," 382 513 2 34 24 
+"<CONJ>" 359 579 2 34 33 
+"<ADV>" 72 476 2 36 39 
+"<PREP>" 136 538 1 38 
+"mínimo legal+piso" 272 480 2 33 24 
+"<N>" 219 538 1 37 
+"<PREPXDET>" 150 379 2 37 24 
+"<A>" 384 198 1 41 
+"<N>" 429 199 1 24 
