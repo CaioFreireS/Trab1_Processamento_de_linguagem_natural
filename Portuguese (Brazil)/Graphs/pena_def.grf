@@ -17,9 +17,9 @@ DRST n
 FITS 100
 PORIENT L
 #
-37
-"<E>" 82 361 3 19 22 11 
-"" 1305 366 0 
+44
+"<E>" 29 358 4 38 19 35 22 
+"" 1296 361 0 
 ":meses.grf" 906 185 1 17 
 "(+) " 828 87 1 6 
 ":dias.grf" 966 635 1 15 
@@ -29,29 +29,36 @@ PORIENT L
 "(+) " 609 288 1 10 
 "$*" 857 633 1 14 
 "$*" 500 365 1 12 
-"fixo+fixado+fixada" 232 363 2 18 23 
+"fixo+fixado+fixada" 229 273 1 18 
 "<E>/<PENA-DEFINITIVA-ANOS>" 544 365 1 7 
-"<E>/</PENA-DEFINITIVA-ANOS>" 767 364 2 8 1 
+"<E>/</PENA-DEFINITIVA-ANOS>" 767 364 2 8 43 
 "<E>/<PENA-DEFINITIVA-DIAS>" 890 634 1 4 
-"<E>/</PENA-DEFINITIVA-DIAS" 1097 637 2 5 1 
+"<E>/</PENA-DEFINITIVA-DIAS" 1097 637 2 5 43 
 "<E>/<PENA-DEFINITIVA-MESES>" 783 184 1 2 
-"<E>/</PENA-DEFINITIVA-MESES>" 1004 184 2 3 1 
-"<PREP>" 390 363 3 26 10 33 
-"repriemda+definitivamente+definitivas+definitiva" 123 272 2 11 18 
-"<Pr>" 234 450 2 21 18 
-"<A>" 331 450 1 18 
-"acusado+acusada+acusadas+acusados" 139 450 1 20 
-"<PREP>" 284 266 1 24 
-"<N>" 351 266 1 18 
+"<E>/</PENA-DEFINITIVA-MESES>" 1004 184 2 3 43 
+"<PREP>" 391 366 4 24 10 31 42 
+"definitivamente+definitivas+definitiva" 86 294 2 11 18 
+"<Pr>" 211 194 2 21 18 
+"<A>" 281 190 1 18 
+"acusado+acusada+acusadas+acusados" 89 190 1 20 
 ", +e " 809 597 1 9 
-":anos.grf" 472 633 2 27 31 
-"(+) " 492 565 2 26 31 
-":meses.grf" 653 594 2 29 32 
-"(+) " 677 530 2 28 32 
-", +e " 616 632 2 28 9 
-"ano+anos" 556 632 1 30 
-"mês+meses" 753 595 1 25 
-":anos.grf" 491 185 2 34 36 
-"(+) " 515 90 2 33 36 
+":anos.grf" 472 633 2 25 29 
+"(+) " 492 565 2 24 29 
+":meses.grf" 653 594 2 27 30 
+"(+) " 677 530 2 26 30 
+", +e " 616 632 2 26 9 
+"ano+anos" 556 632 1 28 
+"mês+meses" 753 595 1 23 
+":anos.grf" 491 185 2 32 34 
+"(+) " 515 90 2 31 34 
 ", +e " 635 184 1 6 
-"ano+anos" 575 184 1 35 
+"ano+anos" 575 184 1 33 
+"<V>" 102 367 1 37 
+"reprimenda" 259 369 1 18 
+"<N>" 169 367 1 36 
+"cumprimento" 57 411 1 39 
+"<PREPXDET>+<PREP>" 145 450 1 40 
+"pena+penas" 248 451 2 18 41 
+"privativa de liberdade" 304 468 1 18 
+"<N>" 393 229 1 18 
+"<E>" 1222 366 1 1 

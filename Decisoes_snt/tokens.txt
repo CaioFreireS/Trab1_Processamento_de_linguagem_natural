@@ -1,4 +1,4 @@
-0000005133
+0000005127
 0
 1
 8
@@ -914,11 +914,6 @@ judiciais
 favoráveis
 fixo
 mínimo
-<
-PENA
-BASE
-ANOS
->
 anos
 reclusão
 dez
@@ -948,10 +943,7 @@ aplicada
 terço
 súmula
 reprimenda
-DEFINITIVA
 seis
-MESES
-DIAS
 vinte
 quatorze
 torno
@@ -1250,6 +1242,7 @@ FEDERAL
 COMPROVAÇÃO
 CAUSA
 AUMENTO
+PENA
 CIRCUNSTÂNCIA
 QUE
 PODE
@@ -1818,6 +1811,7 @@ PATRULHAMENTO
 DEPAROU
 TRÊS
 ALGUNS
+DIAS
 ATRÁS
 HAVIA
 SIDO
